@@ -82,20 +82,16 @@ The annual KPI summary reports the following results for 2014–2018:
 - **Tools:** Excel charts, KPI summaries, and dashboard views
 - **Data coverage:** 2014–2018; the Sales Orders worksheet contains 42,737 data rows (excluding the header).
 
-## How to use
+## Sales data conclusion
+- From 2014 to 2018, the project recorded $79.16 million in sales and $30.22 million in profit, with an overall weighted profit margin of about 38.2%.
+- Sales peaked in 2015 at $16.83 million, while 2017 delivered the highest profit at $6.42 million.
 
-1. Download or clone this repository.
-2. Open the Excel workbook in Microsoft Excel.
-3. Start with the **Dashboard** sheet for the summary view.
-4. Use the KPI and chart sheets to explore annual, monthly, category, and state performance.
-5. Use the reference worksheets to interpret customer, product, and region fields.
+- Performance varied over the period. Sales rose in 2015, declined in 2016, recovered in 2017, then fell 13.3% in 2018 compared with the prior year.
+- Profit declined 15.0% in 2018, and order volume also reached its lowest point in the period.
+- California led the state sales summary at $9.26 million, and Category 7 led the Top 5 category summary at $1.89 million.
 
-## Notes
-
-- Monetary values are shown in USD based on the workbook’s currency field and KPI summaries.
-- Category labels appear as generic names (for example, “Category 7”) in the workbook.
-- The monthly totals shown on **Combo Chart** do not appear to match the monthly totals on **KPI**. Confirm that both summaries use the same date range and filters before combining them in a presentation.
-- Results in this README are based on the workbook’s existing summaries; refresh the workbook’s PivotTables and charts if the underlying data changes.
+- Overall, the results show a profitable business with a substantial downturn in 2018.
+- Reviewing what changed in 2018 by product category, state, and sales channel could help identify where to focus recovery efforts.
 
 ## Repository structure
 
@@ -104,8 +100,3 @@ The annual KPI summary reports the following results for 2014–2018:
 ├── README.md
 └── Excel Project with Dashboard.xlsx
 ```
-
-## Author
-
-**Mehjabeen Shaikh**
-
