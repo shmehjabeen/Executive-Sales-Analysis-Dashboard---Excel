@@ -15,6 +15,8 @@ An Excel-based sales analysis project that explores sales performance, profitabi
 
 ## Dashboard Interaction
 - <a href="https://github.com/shmehjabeen/Executive-Sales-Analysis-Dashboard---Excel/blob/main/ECOMMERCE%20SALES%20ANALYSIS%20DASHBOARD.png">View Dashboard</a>
+<img width="1347" height="734" alt="ECOMMERCE SALES ANALYSIS DASHBOARD" src="https://github.com/user-attachments/assets/f2dc8d56-ae96-4656-86e2-9d72760643e0" />
+
 
 ## Key findings
 
