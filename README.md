@@ -14,7 +14,7 @@ An Excel-based sales analysis project that explores sales performance, profitabi
 - Present the results in an interactive Excel dashboard.
 
 ## Dashboard Interaction
-<a href="https://github.com/shmehjabeen/Executive-Sales-Analysis-Dashboard---Excel/blob/main/ECOMMERCE%20SALES%20ANALYSIS%20DASHBOARD.png">View Dashboard</a>
+- <a href="https://github.com/shmehjabeen/Executive-Sales-Analysis-Dashboard---Excel/blob/main/ECOMMERCE%20SALES%20ANALYSIS%20DASHBOARD.png">View Dashboard</a>
 
 ## Key findings
 
