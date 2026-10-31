@@ -93,10 +93,6 @@ The annual KPI summary reports the following results for 2014–2018:
 - Overall, the results show a profitable business with a substantial downturn in 2018.
 - Reviewing what changed in 2018 by product category, state, and sales channel could help identify where to focus recovery efforts.
 
-## Repository structure
-
-```text
-.
 ├── README.md
 └── Excel Project with Dashboard.xlsx
 ```
