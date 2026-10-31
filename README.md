@@ -2,6 +2,9 @@
 
 An Excel-based sales analysis project that explores sales performance, profitability, order volume, product categories, and geographic results from 2014 through 2018. The workbook includes a dashboard, KPI summaries, charts, and reference data for customers, products, and delivery regions.
 
+## Dataset used
+- <a href="https://github.com/shmehjabeen/Executive-Sales-Analysis-Dashboard---Excel/blob/main/ECOMMERCE%20SALES%20ANALYSIS%20DASHBOARD.xlsx">Dataset</a>
+
 ## Project objectives
 
 - Track sales and profit trends over time.
